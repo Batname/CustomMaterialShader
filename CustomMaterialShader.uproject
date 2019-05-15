@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{24C4CA21-48A5-6A07-4928-D6BB3704E44B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CustomMaterialShader",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": true
+		}
+	]
+}
